@@ -18,4 +18,4 @@
 ![JakeTheSillySnake's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JakeTheSillySnake&theme=vue-dark&hide_border=true)
 ![JakeTheSillySnake's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JakeTheSillySnake&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-<img src="cat_typing.gif" width="200" alt="Cat Typing GIF">
+<img src="cat_typing.gif" alt="Cat Typing GIF">
