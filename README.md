@@ -16,7 +16,6 @@
 
 ## 🔝 GitHub Stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/JakeTheSillySnake?cardType=github&theme=vue-dark&preferLogin=false)](https://git.io/awesome-stats-card)
-![JakeTheSillySnake's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JakeTheSillySnake&theme=vue-dark&hide_border=false)
 ![JakeTheSillySnake's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JakeTheSillySnake&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 <img src="cat_typing.gif" alt="Cat Typing GIF">
