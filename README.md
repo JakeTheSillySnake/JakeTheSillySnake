@@ -1,10 +1,10 @@
 ## Hello there!
 
-✨ I'm Evgenii, a C++ developer with experience in DevOps (Linux)
+✨ I'm Evgenii, a C++ & C# developer with experience in DevOps (Linux)
 
-🔭 I’m currently working on a couple of games as a concept-artist/developer
+🔭 I’m currently working on a couple of indie games
 
-🌱 I'm learning C# and Godot 4
+🌱 I'm learning Godot 4 and Unity
 
 🧩 I like making 2D games, digital art and playing the guitar
 
